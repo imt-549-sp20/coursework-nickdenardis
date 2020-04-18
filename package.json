@@ -1,0 +1,24 @@
+{
+  "name": "coursework-nickdenardis",
+  "version": "1.0.0",
+  "description": "## Weekly assignment checklist",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync  start --server --files='**/*'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imt-549-sp20/coursework-nickdenardis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imt-549-sp20/coursework-nickdenardis/issues"
+  },
+  "homepage": "https://github.com/imt-549-sp20/coursework-nickdenardis#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
